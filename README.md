@@ -1,4 +1,19 @@
 # MapReduce-Matrix-Multiplication
+
+Contained is a MapReduce program with python that is used to implement **X-MN** , where X , M and N are all matrices. 
+
+INPUTS: (examples can be seen in matrices folder)
+-  For each matrix, it should be represented in a txt file, where the 1st column specifies the matrix #, 2nd 
+column specifies the row #, then the row of the matrix. 
+- Each matrix file should be stored in a folder called matrices in the same directory as the mapper and reducer
+- The size of each inputed matrix should also be added to the run file paramters 
+ 
+
+
+
+- report.pdf : Analysis of mapreduce performance on different number of reducers 
+
+
 # HOW TO RUN: 
 
 Source Code: 
