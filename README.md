@@ -9,10 +9,12 @@ column specifies the row #, then the row of the matrix.
 - The size of each inputed matrix should also be added to the run file paramters 
  
 
-
-
+Files:
+hadoop-streaming-3.1.4.jar: hadoop streaming file 
 report.pdf : Analysis of mapreduce performance on different number of reducers 
-
+run.sh: run file needed to implement the code and specify inputs and outputs 
+mapper.py: mapper code
+reducer.py: reducer code
 
 # HOW TO RUN: 
 
