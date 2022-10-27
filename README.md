@@ -14,7 +14,8 @@ Files:
 - report.pdf : Analysis of mapreduce performance on different number of reducers  
 - run.sh: run file needed to implement the code and specify inputs and outputs  
 - mapper.py: mapper code 
-- reducer.py: reducer code 
+- reducer.py: reducer code
+- matrices: example input matrices subdirectory 
 
 # HOW TO RUN: 
 
