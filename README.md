@@ -11,7 +11,7 @@ column specifies the row #, then the row of the matrix.
 
 
 
-- report.pdf : Analysis of mapreduce performance on different number of reducers 
+report.pdf : Analysis of mapreduce performance on different number of reducers 
 
 
 # HOW TO RUN: 
